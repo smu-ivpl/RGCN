@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img width="900" src="./images/fig4.PNG">
+  <img width="450" src="./images/fig4.PNG">
 </p>
 
 <p align="center">
@@ -30,5 +30,5 @@
 </p>
 
 <p align="center">
-  <img width="900" src="./images/table5.PNG">
+  <img width="450" src="./images/table5.PNG">
 </p>
